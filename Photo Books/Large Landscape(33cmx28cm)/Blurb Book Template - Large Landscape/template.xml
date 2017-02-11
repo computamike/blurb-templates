@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Blurb Book templates">
+		<name>Large Landscape Book</name>
+		<file>Large Landscape Book.sla</file>
+		<tnail>Large Landscape Booktn.png</tnail>
+		<img>Large Landscape Book.png</img>
+		<psize>custom, 909x783</psize>
+		<color></color>
+		<descr>Blurb large landscape Book</descr>
+		<usage></usage>
+		<scribus_version>1.5.2</scribus_version>
+		<date>2017-02-11</date>
+		<author>Mike Hingley</author>
+		<email>mike@titaniumbunker.com</email>
+	</template>
+</templates>
